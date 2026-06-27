@@ -1,14 +1,5 @@
 # 🚗 CAN Dashboard System Using LPC2129
 
-> **CAN-Based Automotive Dashboard Monitoring System Using LPC2129 Microcontrollers**
-
-![Platform](https://img.shields.io/badge/Platform-LPC2129-blue)
-![Language](https://img.shields.io/badge/Language-Embedded%20C-green)
-![Protocol](https://img.shields.io/badge/Communication-CAN%20Bus-orange)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![License](https://img.shields.io/badge/License-Educational-lightgrey)
-
----
 
 # 📑 Table of Contents
 
