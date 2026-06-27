@@ -426,7 +426,7 @@ Repeat Forever
 
 # 👨‍💻 Author
 
-**tarUN**
+**tarun**
 
 
 
